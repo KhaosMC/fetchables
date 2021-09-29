@@ -1,0 +1,37 @@
+{
+    "sixteen": [
+        {
+            "name": "",
+            "value": "<:name:id> [name](invite)",
+            "inline": true
+        }
+    ],
+    "twelve": [
+        {
+            "name": "",
+            "value": "<:name:id> [name](invite)",
+            "inline": true
+        }
+    ],
+    "older": [
+        {
+            "name": "",
+            "value": "<:name:id> [name](invite)",
+            "inline": true
+        }
+    ],
+    "archive": [
+        {
+            "name": "",
+            "value": "<:name:id> [name](invite)",
+            "inline": true
+        }
+    ],
+    "bedrock": [
+        {
+            "name": "",
+            "value": "<:name:id> [name](invite)",
+            "inline": true
+        }
+    ]
+}
