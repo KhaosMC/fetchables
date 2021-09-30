@@ -1,37 +1,17 @@
 {
     "sixteen": [
-        {
-            "name": "᲼",
-            "value": "<:name:id> [name](invite)",
-            "inline": true
-        }
+        
     ],
     "twelve": [
-        {
-            "name": "᲼",
-            "value": "<:name:id> [name](invite)",
-            "inline": true
-        }
+        "<:name:id> [name](invite)"
     ],
     "older": [
-        {
-            "name": "᲼",
-            "value": "<:name:id> [name](invite)",
-            "inline": true
-        }
+        "<:name:id> [name](invite)"
     ],
     "archive": [
-        {
-            "name": "᲼",
-            "value": "<:name:id> [name](invite)",
-            "inline": true
-        }
+        "<:name:id> [name](invite)"
     ],
     "bedrock": [
-        {
-            "name": "᲼",
-            "value": "<:name:id> [name](invite)",
-            "inline": true
-        }
+        "<:name:id> [name](invite)"
     ]
 }
